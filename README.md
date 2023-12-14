@@ -16,5 +16,6 @@ In this display I'm working with string in Python.
 
  <h4>
 Working with strings: </h4>
-<img src="https://imgur.com/bfWCpRu.png" height="65%" width="70%" alt="Security Audit"/>
-<img src="https://imgur.com/2KwjMji.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/gxFJSvI.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/hIqer2P.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/CbORt6W.png" height="65%" width="70%" alt="Security Audit"/>
